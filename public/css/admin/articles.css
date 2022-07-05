@@ -1,0 +1,32 @@
+
+.inject-section{
+    height: auto;
+    margin-top: 150px;
+    margin-bottom: 80px;
+}
+.form-wrapper{
+    position:relative;
+    left: 20%;
+}
+.job_post_title{
+   margin-bottom: 50px;
+   text-align:center;
+}
+
+.btn-save{
+        
+    border-radius: 23px;
+    border: none;
+    outline: none;
+    background: #dfb065;
+    padding: 10px 15px 10px 15px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+}
+.btn-save:hover{
+    background: rgba(223, 176, 101, 0.85);
+}
